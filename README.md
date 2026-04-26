@@ -1,7 +1,5 @@
 # Databázový systém zamestnancov
 
-- Projekt je pripravený pre Eclipse ako Java konzolová aplikácia.
-
 # Spustenie:
 - 1. Eclipse -> File -> Import -> Existing Projects into Workspace.
 - 2. Vyber priečinok Databaza_Projekt_Petrik_Gazovic.
