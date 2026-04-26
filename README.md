@@ -1,9 +1,9 @@
 # Databázový systém zamestnancov
 
 # Spustenie:
-- 1. Eclipse -> File -> Import -> Existing Projects into Workspace.
-- 2. Vyber priečinok Databaza_Projekt_Petrik_Gazovic.
-- 3. Spusti triedu app.Main.
+1. Eclipse -> File -> Import -> Existing Projects into Workspace.
+2. Vyber priečinok Databaza_Projekt_Petrik_Gazovic.
+3. Spusti triedu app.Main.
   
 # Splnené požiadavky:
 - OOP: dedičnosť, abstraktná trieda Employee, polymorfizmus.
