@@ -1,13 +1,13 @@
 # Databázový systém zamestnancov
--
+
 - Projekt je pripravený pre Eclipse ako Java konzolová aplikácia.
 
-- Spustenie:
+# Spustenie:
 - 1. Eclipse -> File -> Import -> Existing Projects into Workspace.
 - 2. Vyber priečinok Databaza_Projekt_Petrik_Gazovic.
 - 3. Spusti triedu app.Main.
-- 
-- Splnené požiadavky:
+  
+# Splnené požiadavky:
 - OOP: dedičnosť, abstraktná trieda Employee, polymorfizmus.
 - Abstraktná trieda: model.Employee.
 - Rozhranie: service.SkillExecutable.
